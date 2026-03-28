@@ -13,18 +13,6 @@
 
 ---
 
-
-```
-  ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██╗███╗   ███╗
-  ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██║████╗ ████║
-  ███████║███████║██║     █████╔╝ ███████╗██║██╔████╔██║
-  ██╔══██║██╔══██║██║     ██╔═██╗ ╚════██║██║██║╚██╔╝██║
-  ██║  ██║██║  ██║╚██████╗██║  ██╗███████║██║██║ ╚═╝ ██║
-  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝     ╚═╝
-```
-                                                                      
----
-
 ## What is HackSim?
 
 HackSim is a beginner-friendly, Python game that puts you inside a simulated hacker's terminal. You connect to fictional servers, explore fake file systems, and piece together a story of corporate fraud — all without touching real networks or system resources.
