@@ -4,7 +4,7 @@ class Server:
     def __init__(self, name, fs_tree):
         self.name = name
         self.tree = fs_tree
-        self.cwd_path = []  # empty = root
+        self.cwd_path = [] 
 
     def _resolve(self, path_parts):
         node = self.tree["/"]
