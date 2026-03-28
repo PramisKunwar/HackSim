@@ -1,4 +1,3 @@
-# ---------- FAKE FILESYSTEM DATA ----------
 FILESYSTEMS = {
     "home": {"/": {
         "notes.txt": "== Personal Notes ==\nRemember: corp-server is running an old firewall (v2.1).\nTarget: find the employee list and figure out who has admin access.\nNext step: get into bank-server and locate the accounts file.\nStay ghost. Don't leave traces.",

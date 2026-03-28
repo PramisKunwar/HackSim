@@ -51,7 +51,6 @@ class Game:
         fs = self.current_server
         return f"{bold(green(self.alias))}@{bold(cyan(fs.name))}:{yellow(fs.pwd())}$ "
 
-    # ----- commands -----
     def cmd_help(self, _):
         print("\n" + bold(cyan("  ╔══════════════════════════════════════════╗")))
         print(bold(cyan("  ║          HackSim Command Reference       ║")))

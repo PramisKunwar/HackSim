@@ -1,4 +1,3 @@
-# ANSI color helpers
 C = {'green': '92', 'red': '91', 'yellow': '93', 'cyan': '96', 'bold': '1'}
 
 def color(t, c): 
